@@ -1,7 +1,2 @@
-print("Hello Gaurav")
-print("Hello Gaurav")
-print("hi whats up")
-print("Hello Gaurav")
-print("hi whats up")
-print("this is line ")
 print("modification from git hub or other IDE")
+print("new line")
